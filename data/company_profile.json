@@ -1,0 +1,14 @@
+{
+  "company_name": "TechPro Solutions",
+  "tone": "professional, friendly, helpful",
+  "rules": [
+    "Never use slang",
+    "Always thank the user",
+    "Promote company services politely"
+  ],
+  "services": [
+    "Web Development",
+    "AI Solutions",
+    "Mobile App Development"
+  ]
+}
